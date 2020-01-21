@@ -1,0 +1,44 @@
+1. Find the average score
+
+Algorithm:
+
+1. Initialize sum.
+2. Prompt user for exam score.
+3. Add score to sum.
+4. Repeat steps 2-3 ten times. 
+5. Divide sum by 10.
+
+Control structures: sequence, repetition
+Variables: Sum, average, exam score
+Check: Scores: 85, 90, 77, 82, 100, 87, 95, 68, 89, 92
+	   Sum = 865
+	   Average = Sum / 10 = 865 / 10 = 86.5
+	   
+	   Scores: 75, 85, 90, 70, 80, 100, 78, 87, 95, 88
+	   Sum = 848
+	   Average = 84.8
+
+
+	   
+2. How much water runs off the roof
+
+Control structures: sequence
+Variables: Roof height, roof width, inches of rainfall 
+Constants: Number of gallons
+
+Pseudocode:
+
+Multiply roof height by 12, multiply roof width by 12. 
+Multiply the resulting height and width together. 
+Multiply this result by the number of inches of rainfall.
+Divide the result by 231 to get the number of gallons.
+
+Check: Start with a 60' x 30' roof. Multiplying by 12 gives 720" x 360".
+	   720" x 360" x 2" = 518,400 cubic inches of water
+	   518,400 / 231 = 2244.16 gallons
+	   
+	   Start with a 40' x 10' roof. Multiplying by 12 gives 480" x 120".
+	   480" x 120" x 3" = 172,800 cubic inches of water
+	   172,800 / 231 = 748.05 gallons
+
+	   
