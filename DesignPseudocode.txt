@@ -8,7 +8,7 @@ Algorithm:
 4. Repeat steps 2-3 ten times. 
 5. Divide sum by 10.
 
-Control structures: sequence, repetition
+Control structures: sequence, repetition (I would use a for loop)
 Variables: Sum, average, exam score
 Check: Scores: 85, 90, 77, 82, 100, 87, 95, 68, 89, 92
 	   Sum = 865
